@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 8,
+		"pack_format": 9,
 		"description": [{"text":"Removes Giant Mushrooms from Dark Forests","color":"dark_green"}]
 	}
 }
